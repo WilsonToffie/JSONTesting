@@ -1,34 +1,40 @@
-{"ApplicantToolHR":
+{"Developers":
 [
    {
       "Id":1,
-      "JobId":1,
-      "AppUserId":27
+      "Email":1scsdcSDC@gmail.com,
+      "Role":Developer,
+      "PasswordHash":272443r33x34x34
    },
    {
       "Id":2,
-      "JobId":33,
-      "AppUserId":14
+      "Email":hjshscjbsc@gmail.com,
+      "Role":HRAdmin,
+      "PasswordHash":23x2r32rc342rc
    },
    {
       "Id":3,
-      "JobId":32,
-      "AppUserId":31
+      "Email":sdsvkndfhsad@gmail.com,
+      "Role":Developer,
+      "PasswordHash":27
    },
    {
       "Id":4,
-      "JobId":74,
-      "AppUserId":20
+      "Email":ajaerfnrn@gmail.com,
+      "Role":Developer,
+      "PasswordHash":dvjnwafu4u3ji3f4
    },
    {
       "Id":5,
-      "JobId":42,
-      "AppUserId":44
+      "Email":nnzxcvklksckls@gmail.com,
+      "Role":HRAdmin,
+      "PasswordHash":sdfkjsafj43q77843qr
    },
    {
       "Id":6,
-      "JobId":25,
-      "AppUserId":2
+      "Email":sdmemmmm@gmail.com,
+      "Role":Developer,
+      "PasswordHash":7487iur4jfej4f
    }
 ]
 }
