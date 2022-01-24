@@ -2,39 +2,39 @@
 [
    {
       "Id":1,
-      "Email":1scsdcSDC@gmail.com,
-      "Role":Developer,
-      "PasswordHash":272443r33x34x34
+      "Email":"1scsdcSDC@gmail.com",
+      "Role":"Developer",
+      "PasswordHash":"272443r33x34x34"
    },
    {
       "Id":2,
-      "Email":hjshscjbsc@gmail.com,
-      "Role":HRAdmin,
-      "PasswordHash":23x2r32rc342rc
+      "Email":"hjshscjbsc@gmail.com",
+      "Role":"HRAdmin",
+      "PasswordHash":"23x2r32rc342rc"
    },
    {
       "Id":3,
-      "Email":sdsvkndfhsad@gmail.com,
-      "Role":Developer,
-      "PasswordHash":27
+      "Email":"sdsvkndfhsad@gmail.com",
+      "Role":"Developer",
+      "PasswordHash":"27"
    },
    {
       "Id":4,
-      "Email":ajaerfnrn@gmail.com,
-      "Role":Developer,
-      "PasswordHash":dvjnwafu4u3ji3f4
+      "Email":"ajaerfnrn@gmail.com",
+      "Role":"Developer",
+      "PasswordHash":"dvjnwafu4u3ji3f4"
    },
    {
       "Id":5,
-      "Email":nnzxcvklksckls@gmail.com,
-      "Role":HRAdmin,
-      "PasswordHash":sdfkjsafj43q77843qr
+      "Email":"nnzxcvklksckls@gmail.com",
+      "Role":"HRAdmin",
+      "PasswordHash":"sdfkjsafj43q77843qr"
    },
    {
       "Id":6,
-      "Email":sdmemmmm@gmail.com,
-      "Role":Developer,
-      "PasswordHash":7487iur4jfej4f
+      "Email":"sdmemmmm@gmail.com",
+      "Role":"Developer",
+      "PasswordHash":"7487iur4jfej4f"
    }
 ]
 }
